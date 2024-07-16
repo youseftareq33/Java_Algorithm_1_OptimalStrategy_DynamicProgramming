@@ -1,0 +1,7 @@
+
+Gray: #C0C0C0
+Orange: #FF4500
+Yellow: #FFA500
+WhiteBlue: #48D1CC
+Black: #000000
+red: #FF0000
